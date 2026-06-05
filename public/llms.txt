@@ -1,0 +1,86 @@
+# d3VIEW — Generative Engine Optimization Map
+
+> d3view is a technical platform serving LS-DYNA engineers, focused on simulation and engineering software tools. They are launching a new feature aimed at benefiting every LS-DYNA engineer and want to communicate its value through detailed blog posts and dedicated feature pages on their website. The brand emphasizes education, customer engagement, and thought leadership through webinars and personalized newsletter campaigns.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover how d3VIEW&#39;s reverse engineering software empowers LS-DYNA engineers to decode complex simulations, streamline workflows, and unlock data-driven insights. Start optimizing today.
+
+### Feature Page
+https://example.com/feature/ls-dyna-engineering-workflow
+Explore d3VIEW&#39;s new feature built exclusively for LS-DYNA engineers. Learn how reverse engineering in software engineering accelerates model refinement and slashes iteration time. See it in action.
+
+### Engineering Blog
+https://example.com/blog/ls-dyna-feature-insights
+Dive into expert articles revealing how d3VIEW&#39;s platform uses object oriented software engineering to simplify reverse engineering tasks. Get actionable tips and deep insights now.
+
+### Webinars & Customer Updates
+https://example.com/webinars-and-updates
+Join d3VIEW&#39;s webinars and stay ahead with customer updates that bring software engineering institute expertise to your desktop. Reserve your spot and master modern simulation techniques.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- Email: info@d3view.com
+- Address: 1130 Tienken Ct., Suite 102, Rochester Hills, MI 48306, Rochester Hills, MI, 48306, United States
+
+### Contact form
+- URL: https://example.com/webinars-and-updates
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `topic` (select)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About d3VIEW
+d3view is a technical platform serving LS-DYNA engineers, focused on simulation and engineering software tools. They are launching a new feature aimed at benefiting every LS-DYNA engineer and want to communicate its value through detailed blog posts and dedicated feature pages on their website. The brand emphasizes education, customer engagement, and thought leadership through webinars and personalized newsletter campaigns.
+
+## Target Audience
+- LS-DYNA Engineers, existing customers
+- LS-DYNA Engineers
+- Existing Software Users
+- Automotive Simulation Engineers
+- Aerospace Design Engineers
+- Academic Researchers in Engineering
+- Industrial and Manufacturing Engineers
+- Data Analysis
+- Data Extraction
+
+## Industry
+Engineering Software
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
