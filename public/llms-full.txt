@@ -113,10 +113,16 @@ Read the Blog
 
 
 
+
+
+
+
+
 ## Engineered for LS-DYNA Workflows
 
 
 Three capability pillars that transform simulation data into actionable engineering intelligence, accelerating every stage of your development cycle.
+
 
 
 
@@ -155,7 +161,7 @@ reduction in manual review time
 Streamline repetitive engineering tasks with intelligent automation that connects simulation, analysis, and reporting into a single, traceable pipeline built for LS-DYNA engineers.
 
 
-3x
+4x
 faster model iteration cycles
 
 
@@ -177,6 +183,7 @@ Capture every simulation variant, parameter change, and result comparison in a f
 
 100%
 model visibility across teams
+
 
 
 
